@@ -12,7 +12,7 @@
 我们提供了多种订阅方式，大家可以按照自己的需求进行选择：
 
 - <details><summary>邮件订阅：点击顶部 Watch 按钮选择 Release Only 模式</summary><p><img src="https://github.com/AIGCPromoter/AIGC-DailyNews/blob/master/assets/release_only.png?raw=true" alt style="max-width=100%;"></p></details>
-- <details><summary>公众号：老司机技术周报</summary><p><img src="https://github.com/AIGCPromoter/AIGC-DailyNews/blob/master/assets/qrcode_for_wechat.jpg?raw=true" alt style="max-width=100%;"></p></details>
+- <details><summary>公众号：AIGC技术周报</summary><p><img src="https://github.com/AIGCPromoter/AIGC-DailyNews/blob/master/assets/qrcode_for_wechat.jpg?raw=true" alt style="max-width=100%;"></p></details>
 
 
 ## 检索日报
